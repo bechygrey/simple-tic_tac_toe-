@@ -1,2 +1,2 @@
 # simple-tic_tac_toe-
-this is only for my practice porpose
+this is a simple tia tac toe game
